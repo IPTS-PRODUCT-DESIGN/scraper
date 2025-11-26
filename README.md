@@ -1,2 +1,3 @@
-Start with
-main.ipyn
+Start with main.ipynb
+
+Leuphana 2025
